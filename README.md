@@ -1,0 +1,1 @@
+Little Arduino/Processing projects I created during my summer at the Korea Polytechnic University.
